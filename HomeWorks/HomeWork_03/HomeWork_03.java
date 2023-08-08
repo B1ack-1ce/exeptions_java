@@ -7,6 +7,8 @@ public class HomeWork_03 {
         System.out.println(isEvenNum(nums[2]));
 
         System.out.println(sumArr(nums));
+
+        getLength("Hello");
     }
 
     private static boolean isEvenNum(int num){
@@ -19,5 +21,9 @@ public class HomeWork_03 {
             sum += i;
         }
         return sum;
+    }
+
+    private static void getLength(String word){
+        System.out.println(word.length());
     }
 }
