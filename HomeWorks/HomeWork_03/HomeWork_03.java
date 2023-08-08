@@ -1,10 +1,7 @@
-package Lessons.Lesson_02;
+package HomeWorks.HomeWork_03;
 
-public class Lesson02 {
-
+public class HomeWork_03 {
     public static void main(String[] args) {
         
     }
-
-
 }
